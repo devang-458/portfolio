@@ -29,7 +29,7 @@ const Navbar = () => {
         <div className="flex items-center justify-between py-2 sm:py-0 ">
           <a
             href="/"
-            className="text-xl font-bold transition-colors hover:text-white text-neutral-400 "
+            className="text-2xl font-bold transition-colors hover:text-white text-neutral-400 "
           >
             Devang
           </a>
