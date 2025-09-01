@@ -14,7 +14,7 @@ export function Frameworks() {
     "javascript",
     "typescript",
     "firebase",
-    "github",
+    "github", 
     "git",
     "prisma",
     "nest",
