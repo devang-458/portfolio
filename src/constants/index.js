@@ -14,7 +14,7 @@ export const myProjects = [
     ],
     href: "",
     logo: "",
-    image: "/assets/projects/accessories.jpg",
+    image: "",
     tags: [
       { id: 1, name: "Node", path: "/assets/logos/nodejs.svg" },
       { id: 2, name: "Express", path: "/assets/logos/express.svg" },
@@ -65,7 +65,7 @@ export const myProjects = [
     href: "",
     logo: "",
     image: "/assets/projects/5a.jpg",
-    tags: [
+    tags: [ 
       { id: 1, name: "Node", path: "/assets/logos/nodejs.svg" },
       { id: 2, name: "Express", path: "/assets/logos/express.svg" },
       { id: 3, name: "React", path: "/assets/logos/react.svg" },
